@@ -4,6 +4,6 @@ Hi! I am Adrià Blanco, a Physics student from the University of Barcelona. To k
 
 Please, do not hesitate to contact me if you have any doubts or want to collaborate in a project!
 
-I hope you find my projects insightful and instructive, 
+I hope you find my projects insightful and instructive, see you! 
 
-Adrià
+
