@@ -1,4 +1,4 @@
-# Quantitative-Finance
+# Quantitative_Finance
 
 Hi! I am Adrià Blanco, a Physics student from the University of Barcelona. To know more about me, I recommend you to visit my Linkedin ;)
 
